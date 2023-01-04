@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>build-test-cicd</finalName>
 	</build>
 
 </project>
